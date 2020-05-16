@@ -13,6 +13,8 @@ namespace Controle_versao
 			Console.WriteLine("Olá Mundo!");
 			Console.WriteLine("Bom dia");
 
+			Console.WriteLine("Como vai você Hoje!");
+
 			Console.ReadKey();
 		}
 	}
