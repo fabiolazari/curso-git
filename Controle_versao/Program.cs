@@ -11,9 +11,8 @@ namespace Controle_versao
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Olá Mundo!");
-			Console.WriteLine("Bom dia");
-
 			Console.WriteLine("Como vai você Hoje!");
+			Console.WriteLine("Tenha um bom dia!");
 
 			Console.ReadKey();
 		}
